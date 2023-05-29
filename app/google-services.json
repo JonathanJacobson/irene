@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024366955677",
+    "project_id": "artonthemove2",
+    "storage_bucket": "artonthemove2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024366955677:android:d2de93ada29a386dced874",
+        "android_client_info": {
+          "package_name": "com.example.artonthemove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY6Jv14BaaFZrzkhWmHs97Yc9YnKSonrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

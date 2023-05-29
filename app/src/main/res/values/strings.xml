@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ArtontheMove2</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="telephone">Telephone</string>
+    <string name="select_job_position">Select job position</string>
+    <string name="institution_name">Institution name</string>
+    <string name="password">Password</string>
+    <string name="already_an_user_login">Already an user? Login</string>
+    <string name="login">Login</string>
+    <string name="not_yet_registered_sign_up">Not yet registered? Sign Up</string>
+    <string name="art_transit_list">Art transit list</string>
+    <string name="reference_number">Reference Number</string>
+    <string name="add_project">Add project</string>
+    <string name="project_name">Project name</string>
+</resources>

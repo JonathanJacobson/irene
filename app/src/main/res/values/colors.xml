@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Light_Text">#FFFFFF</color>
+    <color name="Dark_Text">#000000</color>
+    <color name="Blue_Text">#125495</color>
+    <color name="Error_Text">#D11E1E</color>
+    <color name="Red_Color">#D06745</color>
+    <color name="Blue_Color">#3576B5</color>
+    <color name="Button_Background">#663576B5</color>
+    <color name="Text_Background">#D9D9D9</color>
+    <color name="Page_Background">#282828</color>
+    <color name="Menu_Background">#474747</color>
+</resources>

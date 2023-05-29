@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ArtontheMove" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Page_Background</item>
+        <item name="colorPrimaryVariant">@color/Page_Background</item>
+        <item name="colorOnPrimary">@color/Light_Text</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/Blue_Text</item>
+        <item name="colorSecondaryVariant">@color/Blue_Color</item>
+        <item name="colorOnSecondary">@color/Red_Color</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="Theme.ArtontheMove" parent="Base.Theme.ArtontheMove" />
+</resources>
