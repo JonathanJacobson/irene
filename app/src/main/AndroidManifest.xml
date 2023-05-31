@@ -13,14 +13,17 @@
         android:theme="@style/Theme.ArtontheMove"
         tools:targetApi="33">
         <activity
-            android:name=".LoginActivity"
+            android:name=".ProfileActivity"
             android:exported="false" />
+        <activity
+        android:name=".LoginActivity"
+        android:exported="false" />
         <activity
             android:name=".SignupActivity"
             android:exported="true">
             <intent-filter>
+                <action android:name="android.intent.action.LoginActivity" />
                 <action android:name="android.intent.action.SignupActivity" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

@@ -49,7 +49,7 @@ public class LoginActivity extends AppCompatActivity {
         signupRedirectText.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view){
-                Intent intent = new Intent(LoginActivity.this, SignupActivity.class);
+                Intent intent = new Intent(LoginActivity.this, LoginActivity.class);
                 startActivity(intent);
             }
         });
@@ -94,7 +94,7 @@ public class LoginActivity extends AppCompatActivity {
 
                     if (!Objects.equals(passwordFromDB, userPassword)){
                         loginEmail.setError(null);
-                        Intent intent = new Intent(LoginActivity.this, LoginActivity.class);
+                        Intent intent = new Intent(LoginActivity.this, ProfileActivity.class);
                         startActivity(intent);
                     } else {
                         loginPassword.setError("Invalid Credentials");
